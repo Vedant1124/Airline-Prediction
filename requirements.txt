@@ -1,1 +1,4 @@
-numpy==2.1.2
+numpy
+streamlit
+scikit-learn
+lightgbm
