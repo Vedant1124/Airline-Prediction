@@ -3,7 +3,7 @@
 This project implements a machine learning model to predict airline customer satisfaction using the LightGBM algorithm. The model is deployed using Streamlit for interactive use.
 
 ## Features
-- Predicts customer satisfaction based on features such as flight details, service ratings, and customer information.
+- Predicts customer satisfaction based on features such as flight details, service ratings, flight delays and customer information.
 - Uses the LightGBM algorithm, known for its high efficiency and accuracy in handling large datasets.
 - Deployed on Streamlit for a simple web interface to input data and get predictions.
 
