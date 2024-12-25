@@ -31,7 +31,9 @@ pip install -r requirements.txt
 
 ## Model Training
 1.) The model is trained using the LightGBM algorithm, which efficiently handles large datasets and supports parallel learning.
+
 2.) Features such as flight type, service ratings, and customer demographics were used to train the model.
+
 3.) Evaluation metrics such as accuracy, precision, recall, and F1-score were used to assess model performance.
 
 ## Results 
